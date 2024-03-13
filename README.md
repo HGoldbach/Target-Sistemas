@@ -37,11 +37,11 @@ f) Não encontrei uma lógica para essa sequência
 
 Ativo o interruptor 1 por 5 minutos, ao passar o tempo desativo-o e ativo o interruptor 2, em seguida vou para a sala 1
 
-- Se a lampada estiver desligada e quente o interruptor 1 é o da sala
-- Se a lampada estiver ligada o interruptor 2 é o da sala
-- Se a lampada estiver desliga e fria o interruptor 3 é o da sala
+- Se a lampada estiver apagada e quente o interruptor 1 é o da sala
+- Se a lampada estiver acesa o interruptor 2 é o da sala
+- Se a lampada estiver apagada e fria o interruptor 3 é o da sala
 
 Com o conhecimento do interruptor da sala 1, volto para a sala dos interruptores e ativo apenas um deles(o que não seja o da sala 1), em seguida vou para a sala 2
 
-- Se a lampada estiver ligada o interruptor da sala 2 é o ativado, e o da sala 3 é o desativado(excluindo o interruptor da sala 1)
+- Se a lampada estiver acesa o interruptor da sala 2 é o ativado, e o da sala 3 é o desativado(excluindo o interruptor da sala 1)
 - Caso contrário o interruptor da sala 2 é o desativado(excluindo o interruptor da sala 1), e o da sala 3 é o ativado
