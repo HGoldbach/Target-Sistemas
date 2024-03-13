@@ -39,7 +39,7 @@ Ativo o interruptor 1 por 5 minutos, ao passar o tempo desativo-o e ativo o inte
 
 - Se a lampada estiver desligada e quente o interruptor 1 é o da sala
 - Se a lampada estiver ligada o interruptor 2 é o da sala
-- Caso contrário o interruptor 3 é o da sala
+- Se a lampada estiver desliga e fria o interruptor 3 é o da sala
 
 Com o conhecimento do interruptor da sala 1, volto para a sala dos interruptores e ativo apenas um deles(o que não seja o da sala 1), em seguida vou para a sala 2
 
